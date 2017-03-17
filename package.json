@@ -1,0 +1,23 @@
+{
+  "name": "randomise",
+  "version": "1.0.0-beta.0",
+  "description": "To generate random numbers",
+  "main": "randomise.js",
+  "bin": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnlon/randomise.git"
+  },
+  "keywords": [
+    "random"
+  ],
+  "author": "lon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cnlon/randomise/issues"
+  },
+  "homepage": "https://github.com/cnlon/randomise#readme"
+}
