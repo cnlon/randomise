@@ -8,7 +8,7 @@ function randomise ({
   const delta = max - min
   const array = []
   let index = count
-  while (index--) {
+  while (index-- > 0) {
     const number = min + Math.random() * delta
     const fixed = Number(number.toFixed(precision))
     array.push(fixed)
