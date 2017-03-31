@@ -18,6 +18,6 @@ randomise
 or
 
 ```bash
-randomise count=10 min=10 max=100 precision=2 join=','
-# 91.52,88.02,54.9,83.94,56.29,79.06,31.54,69.23,67.14,20.38
+randomise count=10 min=10 max=100 precision=1 separator=', ' # randomise c=10 l=10 g=100 p=1 s=', '
+# 32.8, 42.4, 76.8, 84.4, 23.1, 17.8, 77.3, 32.3, 60.8, 82.5
 ```

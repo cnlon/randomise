@@ -8,7 +8,7 @@ const PARAM_ALIASES = {
   'l': 'min',
   'g': 'max',
   'p': 'precision',
-  'j': 'join'
+  's': 'separator'
 }
 const NUMBER_PARAMS = new Set(['count', 'min', 'max', 'precision'])
 
