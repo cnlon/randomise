@@ -1,6 +1,6 @@
 {
   "name": "randomise",
-  "version": "1.0.0-beta.0",
+  "version": "1.0.0-beta.1",
   "description": "To generate random numbers",
   "main": "randomise.js",
   "bin": "randomise.bin.js",
