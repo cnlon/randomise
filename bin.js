@@ -5,8 +5,8 @@ const randomise = require('./randomise.js')
 
 const PARAM_ALIASES = {
   'c': 'count',
-  's': 'min',
-  'l': 'max',
+  'l': 'min',
+  'g': 'max',
   'p': 'precision',
   'j': 'join'
 }
