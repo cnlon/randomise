@@ -4,7 +4,7 @@ function randomise ({
   max = 100,
   precision = 0,
   join = ', '
-}) {
+} = {}) {
   const delta = max - min
   const array = []
   let index = count
